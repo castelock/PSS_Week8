@@ -2,5 +2,6 @@
 {
     public interface IInvoiceServices
     {
+        void Remove(int invoiceId);
     }
 }
